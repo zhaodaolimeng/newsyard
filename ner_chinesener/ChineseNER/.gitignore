@@ -1,0 +1,8 @@
+config_file
+*.pkl
+ckpt/
+log/
+result/
+__pycache__/
+data/
+train.log
